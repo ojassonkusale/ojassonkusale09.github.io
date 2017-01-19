@@ -1,0 +1,168 @@
+body{
+	/*background:white;*/
+	background: url(bg.jpg);
+}
+
+
+.content{
+	position: absolute;
+	width:300px;
+	margin-left: 250px;
+	color:"white";
+	background-color:#19D199;
+}
+.profile img{
+	padding: 2px;
+	background: #49A4B2;
+	padding-bottom: 10px;
+	padding: 50px;
+	width: 195px;
+	border-radius: 100px;
+}
+
+.key{
+	font-weight: bold;
+
+}
+
+.value{
+	
+	}
+
+.contact{
+		width: 300px;
+	height: 50px;
+	background-color:  #7F8FF0;
+	font-size: 25px;
+	text-align: center;
+
+}
+
+#box1{
+	
+	padding-left:7px;
+	padding-top:  5px;
+	text-align: 35px; 
+	color: white;
+}
+.language{
+	
+	width: 300px;
+	height: 40px;
+	background-color: #7F8FF0;
+	font-size: 25px;
+	text-align: center;
+	
+}
+#box2{
+	
+	padding-left:7px;
+	padding-top: 12px;
+	padding-bottom: 10px; 
+	text-align: 35px;
+	color: white;
+}
+.hobby{
+	width: 300px;
+	height: 40px;
+	background-color:  #7F8FF0;
+	font-size: 25px;
+	text-align: center;
+}
+
+#box3{
+	
+	padding-left:7px;
+	padding-top: 10px; 
+	text-align: 30px;
+	color: white;
+}
+
+.profilebasic{
+	width: 600px;
+	height: 895px;
+	background-color:white;
+	position: absolute;
+	margin-left: 555px;
+	display: inline-block;
+	vertical-align: top;
+	color: black;
+}
+.profile1{
+	padding-top:  10px;
+	padding-bottom: 25px;
+	padding-left: 8px;	
+	font-size: 40px;
+	background-color:lightblue;
+	color: black;
+}
+.name{
+	margin-top: 3px;
+	position: absolute;
+}
+.student{
+	padding-left: 1px;
+	width: 250px;
+	height: 30px;
+	background-color:  #7F8FF0;
+	font-size: 30px;
+	text-align: center;
+}
+.about-me{
+	width: 250px;
+	height: 30px;
+	margin-bottom:20px;
+	background-color:  #7F8FF0;
+	font-size: 24px;
+	text-align: center;
+}
+
+#box4{
+	margin-bottom:5px; 
+	background-color: white;
+	padding-left:7px;
+	padding-top: 10px;
+	text-align: left; 
+	color: black;
+}
+
+.blank{
+	width: 597px;
+	border-style:solid;
+	border-width:2px;
+	border-color:#1531A5; 
+}
+.blank1{
+	width: 590px;
+	border-style:solid;
+	border-width:5px;
+	border-color:white; 
+}
+
+.heading{
+	width: 300px;
+	height: 30px;
+	background-color: #7F8FF0 ;
+	font-size: 24px;
+	text-align: center;
+	padding-left: 1px;
+}
+.heading1{
+	margin-bottom: 12px;
+	width: 300px;
+	height: 30px;
+	background-color: #7F8FF0 ;
+	font-size: 24px;
+	text-align: center;
+	padding-left: 1px;
+	padding-bottom:2px; 
+}
+
+.info{
+	background-color: #23535A;
+	padding-left:7px;
+	padding-top: 15px;
+	padding-bottom: 25px; 
+	text-align: 20px;
+	color: white;
+}
